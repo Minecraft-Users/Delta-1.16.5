@@ -1,2 +1,2 @@
 # Delta-1.16.5
-Hello everyone, this is the long-awaited delta crack, the same cheat that is very good for both PVE and PVP, before starting, I advise you to ALWAYS read the ReadMe file, there are instructions for starting it, but good luck to everyone
+I am not responsible for the consequences with your accounts on the servers, play carefully and do not abuse this, and before installation I advise you to disable your antivirus, since the cheat has its own injector and gives false indications about the Trojan, etc.
